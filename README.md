@@ -3,7 +3,7 @@
 Project Description for Ryno EV Bike Website
 
 Overview
-This project is a comprehensive e-commerce website for Ryno Electric Bikes, built using React. The site allows users to browse a selection of electric bikes, add items to their cart, and complete purchases through a secure payment gateway.
+-This project is a comprehensive e-commerce website for Ryno Electric Bikes, built using React. The site allows users to browse a selection of electric bikes, add items to their cart, and complete purchases through a secure payment gateway.
 
 Features
 - Product Listings: Display a variety of electric bikes with detailed descriptions, images, and prices.
